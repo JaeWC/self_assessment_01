@@ -1,6 +1,15 @@
 function hammingDistance(strArr) {
-  // YOUR CODE HERE
-  return
+  var firstStr = strArr[0];
+  var secondStr = strArr[1];
+
+  var hammingCount = 0;
+  for (var i = 0; i < firstStr.length; i++) {
+    if (firstStr[i] !== secondStr[i]) {
+      count += 1;
+    }
+  }
+
+  return hammingCount;
 }
 
 hammingDistance(["coder", "codec"]); // => 1
