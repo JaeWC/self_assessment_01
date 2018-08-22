@@ -14,7 +14,7 @@
 - [ Complete ] longestName
 - [ Complete ] range
 - [ Complete ] hammingDistance
-- [ ] offLineMinimum (난이도가 조금 있습니다!)
+- [ Complete ] offLineMinimum (난이도가 조금 있습니다!)
 
 ## Self-Grading Process
 
