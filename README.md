@@ -11,7 +11,7 @@
 
 - [ Complete ] billTotal
 - [ Complete ] getFullName
-- [ ] longestName
+- [ Complete ] longestName
 - [ ] range
 - [ ] hammingDistance
 - [ ] offLineMinimum (난이도가 조금 있습니다!)
