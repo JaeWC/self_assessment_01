@@ -9,7 +9,7 @@
 
 ## Grading Outline
 
-- [ ] billTotal
+- [ Complete ] billTotal
 - [ ] getFullName
 - [ ] longestName
 - [ ] range
