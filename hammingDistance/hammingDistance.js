@@ -5,7 +5,7 @@ function hammingDistance(strArr) {
   var hammingCount = 0;
   for (var i = 0; i < firstStr.length; i++) {
     if (firstStr[i] !== secondStr[i]) {
-      count += 1;
+      hammingCount++;
     }
   }
 
