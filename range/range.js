@@ -1,6 +1,12 @@
 function range(start, end) {
-  // YOUR CODE HERE
-  return
+  if (start >= end) {
+    return [];
+  }
+  var rangedArray = [];
+  for (var i = start; i < end; i++) {
+    rangedArray.push(i);
+  }
+  return rangedArray;
 }
 
 range(0, 4); // => [0, 1, 2, 3]
