@@ -10,7 +10,7 @@
 ## Grading Outline
 
 - [ Complete ] billTotal
-- [ ] getFullName
+- [ Complete ] getFullName
 - [ ] longestName
 - [ ] range
 - [ ] hammingDistance

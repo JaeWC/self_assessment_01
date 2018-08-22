@@ -1,6 +1,10 @@
 function getFullName(obj) {
-  // YOUR CODE HERE
-  return
+  var nameObj = obj.name;
+
+  if (nameObj.middle === undefined) {
+    return nameObj.first + ' ' + nameObj.last;
+  }
+  return nameObj.first + ' ' + nameObj.middle + ' ' + nameObj.last;
 }
 
 var person = {
